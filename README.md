@@ -12,11 +12,11 @@
 </p>
 <h3> Навыки </h3>
 <p>
-·	Linux ( разверну CentOS minimal, поставлю Zabbix, промониторю сеть. )<br>
-·	Git ( умею коммитить, <a href="https://learngitbranching.js.org/?locale=ru_RU">learngitbranching.js.org</a> мне очень в этом помог )<br>
-·	Postman ( курс «Тестирование ПО: Postman для тестирования API». <a href="https://stepik.org/certificate/9d37167d3beef7f32977fa3280664bed06480a1b.pdf">Сертификат</a>. )<br>
-·	SQL ( добавление и изменение данных, работа с условными запросами, всегда под рукой это <a href="https://proselyte.net/">руководство</a>. )<br>
-·	Python ( курс от Нетологии «Python для начинающих». <a href="https://disk.yandex.ru/i/G2KFpucXJtN7rQ">Сертификат</a>. )<br>
+·<em>	Linux </em> ( разверну CentOS minimal, поставлю Zabbix, промониторю сеть. )<br>
+·<em>	Git </em> ( умею коммитить, <a href="https://learngitbranching.js.org/?locale=ru_RU">learngitbranching.js.org</a> мне очень в этом помог )<br>
+·<em> Postman </em> ( курс «Тестирование ПО: Postman для тестирования API». <a href="https://stepik.org/certificate/9d37167d3beef7f32977fa3280664bed06480a1b.pdf">Сертификат</a>. )<br>
+·<em>	SQL </em> ( добавление и изменение данных, работа с условными запросами, всегда под рукой это <a href="https://proselyte.net/">руководство</a>. )<br>
+·<em>	Python </em> ( курс от Нетологии «Python для начинающих». <a href="https://disk.yandex.ru/i/G2KFpucXJtN7rQ">Сертификат</a>. )<br>
 </p>
 <h3>Образование:</h3>
 
