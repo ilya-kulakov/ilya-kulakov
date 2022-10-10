@@ -8,7 +8,7 @@
 <h3>Умею </h3>
 <p>
 <p><br>·	Кейсы и чек листы (<a href="https://docs.google.com/spreadsheets/d/1joMOKHzUakhHLWhip4ywX00chuYse0HA/edit?usp=sharing&ouid=104128891584423744185&rtpof=true&sd=true">пример</a>)</br>
-·	Баг репорты. Работал с Jira.
+·	Баг репорты. Изучил работу с Jira.
 </p>
 <h3> Навыки </h3>
 <p>
@@ -16,7 +16,7 @@
 ·<em>	Git </em> ( умею коммитить, <a href="https://learngitbranching.js.org/?locale=ru_RU">learngitbranching.js.org</a> мне очень в этом помог )<br>
 ·<em> Postman </em> ( курс «Тестирование ПО: Postman для тестирования API». <a href="https://stepik.org/certificate/9d37167d3beef7f32977fa3280664bed06480a1b.pdf">Сертификат</a>. )<br>
 ·<em>	SQL </em> ( добавление и изменение данных, работа с условными запросами, всегда под рукой это <a href="https://proselyte.net/">руководство</a>. )<br>
-·<em>	Python </em> ( курс от Нетологии «Python для начинающих». <a href="https://disk.yandex.ru/i/G2KFpucXJtN7rQ">Сертификат</a>. )<br>
+·<em>	Python </em> ( курс от Нетологии «Python для начинающих». <a href="https://disk.yandex.ru/i/G2KFpucXJtN7rQ">Сертификат</a>.<a href="https://github.com/ilya-kulakov/To-Do_Bot_Telegram.git"> Проект</a>. )<br>
 </p>
 <h3>Образование:</h3>
 
