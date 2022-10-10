@@ -4,7 +4,7 @@
   <meta charset="utf-8">
  </head>
  <body>
-<h1>Резюме | Кулаков Илья | 21 год</h1>
+<h1>Резюме QA | Кулаков Илья </h1>
 <h3>Умею </h3>
 <p>
 <p><br>·	Кейсы и чек листы (<a href="https://docs.google.com/spreadsheets/d/1joMOKHzUakhHLWhip4ywX00chuYse0HA/edit?usp=sharing&ouid=104128891584423744185&rtpof=true&sd=true">пример</a>)</br>
